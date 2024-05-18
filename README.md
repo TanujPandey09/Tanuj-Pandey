@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanujpandey" target="blank"><img src="https://img.shields.io/twitter/follow/tanujpandey?logo=twitter&style=for-the-badge" alt="tanujpandey" /></a> </p>
 
-- 🔭 I’m currently working on [Phtohsphere](https://photospherers.netlify.app/)
+- 🔭 I’m currently working on [Photosphere](https://photospherers.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://tanujportfoliodev.netlify.app/](https://tanujportfoliodev.netlify.app/)
 
